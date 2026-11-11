@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I'm currently working on: Building AI-powered applications, intelligent developer tools, and real-world software products.<br><br>👯 I'm looking to collaborate on: AI/ML projects, full-stack applications, open-source tools, and innovative tech products.<br><br>🤝 I'm looking for help with: AI integrations, scalable software architecture, cloud deployment, and turning ideas into production-ready products.<br><br>🌱 I'm currently learning: Generative AI, AI Agents, Machine Learning, Backend Engineering, and Cloud Technologies.<br><br>💬 Ask me about: Python, Java, JavaScript, Django, AI-powered applications, web development, and building software products.<br><br>⚡ Fun fact: I don't just learn technologies — I love turning random ideas into working projects.
+
+## 👋 Introduction
+
+I'm **Ayush Dongare**, a Full-Stack Developer passionate about Artificial Intelligence, software engineering, and building innovative technology solutions. I focus on transforming ideas into scalable, practical applications.
+
+## About Me
+
+- 🔭 **Working On:** AI-powered applications, intelligent developer tools, and software products.
+- 🤝 **Collaboration:** AI/ML, full-stack development, open-source projects, and innovative technologies.
+- ⚙️ **Interested In:** AI integrations, system architecture, cloud infrastructure, and scalable solutions.
+- 📚 **Currently Exploring:** Generative AI, AI Agents, Machine Learning, Backend Engineering, and Cloud Computing.
+- 💻 **Technical Interests:** Python, Java, JavaScript, Django, web development, and AI engineering.
+- 🚀 **Personal Approach:** Engineering solutions, experimenting with emerging technologies, and turning ideas into real-world products.
+
+### Core Philosophy
+
+> Think critically. Engineer creatively. Build solutions that matter.
 
 
 ## 🌐 Socials:
